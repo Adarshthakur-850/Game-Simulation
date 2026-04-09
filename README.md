@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep RL Game Simulation (DQN)
 
 ## Overview
@@ -45,3 +46,7 @@ Game Simulation/
 - **Experience Replay**: Buffer size 100,000
 - **Target Network**: Soft updates ($\tau=1e-3$)
 - **Action Selection**: Epsilon-Greedy (Starts at 1.0, decays to 0.01)
+=======
+# Game-Simulation
+ml project
+>>>>>>> 18b406bb3fc38e93f6aa1b7f9460a1fc62a76eb5
