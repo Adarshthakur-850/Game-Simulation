@@ -13,6 +13,10 @@ It serves as a foundation for understanding:
 
 The project is suitable for applications in artificial intelligence, reinforcement learning experimentation, and algorithm testing.
 
+
+<img width="981" height="957" alt="Screenshot 2026-02-07 005703" src="https://github.com/user-attachments/assets/21e40b5b-3a2e-464a-81fb-4dfbdb3acf1b" />
+<img width="255" height="265" alt="Screenshot 2026-02-07 212401" src="https://github.com/user-attachments/assets/eb5755b0-4a29-406e-b118-0e41643681cb" />
+
 ---
 
 ## Objectives
